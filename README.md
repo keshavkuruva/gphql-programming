@@ -1,2 +1,2 @@
 # gphql-programming
-Graphql Programmin
+Graphql Programming
